@@ -1,0 +1,10 @@
+C:\Users\JAMIN\OneDrive\Docs\Paylocity\PayCost\PayCost\bin\Debug\PayCost.exe.config
+C:\Users\JAMIN\OneDrive\Docs\Paylocity\PayCost\PayCost\bin\Debug\PayCost.exe
+C:\Users\JAMIN\OneDrive\Docs\Paylocity\PayCost\PayCost\bin\Debug\PayCost.pdb
+C:\Users\JAMIN\OneDrive\Docs\Paylocity\PayCost\PayCost\obj\Debug\PayCost.csprojAssemblyReference.cache
+C:\Users\JAMIN\OneDrive\Docs\Paylocity\PayCost\PayCost\obj\Debug\PayCost.Properties.Resources.resources
+C:\Users\JAMIN\OneDrive\Docs\Paylocity\PayCost\PayCost\obj\Debug\PayCost.csproj.GenerateResource.cache
+C:\Users\JAMIN\OneDrive\Docs\Paylocity\PayCost\PayCost\obj\Debug\PayCost.csproj.CoreCompileInputs.cache
+C:\Users\JAMIN\OneDrive\Docs\Paylocity\PayCost\PayCost\obj\Debug\PayCost.exe
+C:\Users\JAMIN\OneDrive\Docs\Paylocity\PayCost\PayCost\obj\Debug\PayCost.pdb
+C:\Users\JAMIN\OneDrive\Docs\Paylocity\PayCost\PayCost\obj\Debug\PayCost.payCostPage.resources
